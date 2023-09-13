@@ -1,11 +1,10 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with Mini Project
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `yarn` or `npm install`
+To install packages
 ### `yarn start`
 
 Runs the app in the development mode.\
